@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = `${import.meta.env.VITE_API_URL}/api/atm`;
+const API = "https://atm-application-7g4t.onrender.com/api/atm";
 
 export const signup = (data) => {
   return axios.post(`${API}/signup`, data);
