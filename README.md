@@ -245,6 +245,6 @@ JWT_SECRET=your_secret_key
 
 <div align="center">
 
-🏧 "Modern Banking Powered by Modern Web Technology." 🏧
+"Modern Banking Powered by Modern Web Technology." 
 
 </div>
