@@ -1,4 +1,4 @@
-<h1 align="center">🏧 ATM Banking Management System</h1>
+<h1 align="center">ATM Banking Management System</h1>
 
 <p align="center">
   <b>Secure Digital Banking Application using React, Vite, Node.js & MongoDB</b><br/>
